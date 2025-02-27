@@ -137,4 +137,4 @@ Alternatively, you can deploy this project on **Render** by following their [dep
 
 ## **Project Dashboard**
 
-![Dashboard](https://github.com/manal-herradi/images/dash.png)
+![Dashboard](https://github.com/manal-herradi/images/blob/main/dash.png)
