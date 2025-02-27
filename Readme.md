@@ -134,3 +134,7 @@ If you want to deploy this app to **Heroku**, follow these steps:
 
 ### **2. Deploy on Render**
 Alternatively, you can deploy this project on **Render** by following their [deployment guide](https://render.com/docs/deploy-flask).
+
+## **Project Dashboard**
+
+![Dashboard](https://github.com/manal-herradi/images/dash.png)
